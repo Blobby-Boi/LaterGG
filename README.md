@@ -1,5 +1,5 @@
 # LaterGG
-## Tutorial for fullscreening and bypassing the now.gg time limit. Based on "Now.gg Totup Limit Bypass" from TN Discord sever.
+### Tutorial for fullscreening and bypassing the now.gg time limit. Based on "Now.gg Totup Limit Bypass" from TN Discord sever.
 
 1. Open this link: `https://now.gg/apps/a/19900/b.html?ng_ntmSource=MyGames&ng_ifp_partner=latergg` You should see now.gg load but in fullscreen mode.
 2. Once roblox loads, click privacy and scroll down to where it says COPPA<br>
