@@ -1,11 +1,11 @@
 # LaterGG
-### Tutorial for fullscreening and bypassing the now.gg time limit. Based on "Now.gg Totup Limit Bypass" from TN Discord sever.
+### Guide for fullscreening and bypassing the now.gg time limit. Based on "Now.gg Totup Limit Bypass" from TN Discord sever.
 
 1. Open this link: `https://now.gg/apps/a/19900/b.html?ng_ntmSource=MyGames&ng_ifp_partner=latergg`. You should see now.gg load into roblox but in fullscreen mode.
 2. Once it loads, click privacy and scroll down to where it says COPPA<br>
 ![image](https://github.com/user-attachments/assets/b0df53a8-2b8e-4808-b2a6-2cb713b3780c)
 4. Click on it and Google Chrome should open.
-5. Change the url to `https://tinyurl.com/latergg`
+5. Change the url to `https://tinyurl.com/latergg`.
 6. When it says the file might be harmful, click download anyway.
 7. In the "File Downloaded" popup, click open.
 8. Click on install, and then click on open.
