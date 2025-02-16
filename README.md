@@ -14,6 +14,5 @@
 10. When it says enable support for recent apps press cancel. You should see a taskbar show up.
 11. Click on the following icon on the taskbar, which should fullscreen the time limit window.<br>
 ![image](https://github.com/user-attachments/assets/ae9c0abb-f4ba-4a33-901c-83d70932a303)
-13. Click on the 3 dots in bottom left corner<br>
-![image](https://github.com/user-attachments/assets/7bb09fc3-4e5f-4921-8251-a83077ae41a9)
-15. Open roblox/playstore (for other games) then you're done!
+13. Click on the roblox in the taskbar then you're done!<br>
+14. For other games, you can click on the three dots in the bottom right of the taskbar and select playstore.
