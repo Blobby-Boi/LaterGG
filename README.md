@@ -16,3 +16,5 @@
 ![image](https://github.com/user-attachments/assets/ae9c0abb-f4ba-4a33-901c-83d70932a303)
 13. Click on the Roblox in the taskbar then you're done!<br>
 14. For other games, you can click on the three dots in the bottom right of the taskbar and select playstore.
+
+If you can't read for some reason, use [this video](https://blobby-boi.github.io/LaterGG/video/).
